@@ -12,7 +12,7 @@
     "dependencies": {
         "@solana/web3.js": "1.48.0",
         "@walletconnect/client": "^1.8.0",
-        "@walletconnect/ethereum-provider": "^1.8.0",
+        "@walletconnect/ethereum-provider": "^2.4.4",
         "@walletconnect/qrcode-modal": "^1.8.0",
         "@walletconnect/web3-provider": "^1.8.0",
         "buffer": "6.0.3",
