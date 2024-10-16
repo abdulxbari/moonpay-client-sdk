@@ -10,13 +10,13 @@
         "example": "npx serve ./src/example"
     },
     "dependencies": {
-        "@solana/web3.js": "1.48.0",
+        "@solana/web3.js": "1.54.1",
         "@walletconnect/client": "^1.8.0",
         "@walletconnect/ethereum-provider": "^1.8.0",
         "@walletconnect/qrcode-modal": "^1.8.0",
         "@walletconnect/web3-provider": "^1.8.0",
         "buffer": "6.0.3",
-        "ethers": "5.6.9"
+        "ethers": "6.0.0"
     },
     "devDependencies": {
         "@types/node": "16.11.45",
